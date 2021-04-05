@@ -1,0 +1,5 @@
+J. Jonah Jameson;1963;201226348;i
+Peter Parker;1962;201234567;n
+Norman Osborn;1964;303217654;i
+Green Gobli;1964;303217654;n
+Vulture;1963;707231432;n
